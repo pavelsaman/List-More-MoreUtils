@@ -1,0 +1,10 @@
+Changes
+lib/List/More/MoreUtils.pm
+Makefile.PL
+MANIFEST			This list of files
+README.md
+t/choice.t
+t/critic.t
+t/largest_range.t
+t/List-More-MoreUtils.t
+t/mirrored.t
